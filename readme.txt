@@ -34,7 +34,7 @@ INSTALLATION GUIDE
 
 Follow these steps to set up the project locally.
 
-Clone the Repository git clone https://github.com/your-username/video-game-sales-analytics.git cd video-game-sales-analytics
+Clone the Repository git clone https://github.com/Cskskjaddu/video-game-sales-analytics cd video-game-sales-analytics
 
 Install Dependencies This project requires several external libraries. You can install them all at once using pip.
 
@@ -73,5 +73,6 @@ bar.py: Generates bar charts for publisher statistics.
 ml_predict.py: Runs the Machine Learning model to forecast future trends.
 
 requirements.txt: List of Python dependencies.
+
 
 Video_Games_Sales_as_at_22_Dec_2016.csv: The dataset.
